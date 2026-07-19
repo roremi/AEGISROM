@@ -3,5 +3,21 @@
   "vendor": "Samsung",
   "model": "Galaxy S9",
   "image_url": "",
-  "builds": []
+  "builds": [
+    {
+      "version": "v1.0",
+      "android": "Android 13",
+      "variant": "CUSTOM",
+      "date": 1784447437,
+      "size_bytes": 1498087985,
+      "filename": "AEGISROM_starlte-13.0-20260719-1450-CUSTOM.zip",
+      "md5": "380fac1944c1977f408bfde7d0f7937c",
+      "download_url": "https://github.com/roremi/AEGISROM/releases/download/aegisdroid-v1.0-starlte-20260719/AEGISROM_starlte-13.0-20260719-1450-CUSTOM.zip",
+      "changelog": [
+        "Initial AEGISDroid rebrand for starlte",
+        "AEGISROM OTA and runtime feeds",
+        "Third-party Telegram telemetry disabled"
+      ]
+    }
+  ]
 }
