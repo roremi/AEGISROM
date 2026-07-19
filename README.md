@@ -25,3 +25,5 @@ privileged release changes and must be reviewed before merging.
 The shared attestation feed can be revoked or rejected and must not be relied on
 for important accounts. Replace it only with material you are authorized to use.
 
+The v1.0 ROM pre-release is retained only for static review. It is not advertised
+through OTA because the native xrom and XCAM backend migration is incomplete.
