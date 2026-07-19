@@ -1,0 +1,11 @@
+*.img
+*.zip
+*.new.dat*
+*.transfer.list
+*.pk8
+*.pem
+*.jks
+*.keystore
+keybox.xml
+xrom.decoded.txt
+
